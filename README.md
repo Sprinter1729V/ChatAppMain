@@ -1,4 +1,4 @@
-# React Calling App by Harshitha Reddy, Indian Institute of Technology, Patna(Mathematics and Computing Department)
+# React Calling App by Vyshnavi Munagala, Indian Institute of Technology, Patna(Mathematics and Computing Department)
 
 ![callapp](https://i.ibb.co/rcxVVHC/callapp.png)
 
